@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController
 {
-    
+    //Making Sure that this files is added to my github
     //Starts the game
     private lazy var game = Concentration(numberOfPairsOfCards: numberOfPairsOfCards)
    
